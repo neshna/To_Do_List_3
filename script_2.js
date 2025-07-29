@@ -24,6 +24,5 @@ function addToList() {
   toDoArray.push(inputValue);
   inputElement.value = '';
   renderToDoList();
-  console.log("version3");
 
 }

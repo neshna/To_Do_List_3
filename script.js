@@ -57,5 +57,4 @@ toDoArray.push(
 function deleteList(i){
   toDoArray.splice(i , 1);
   renderToDoList();
-    console.log("version3");
 }
