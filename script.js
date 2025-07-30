@@ -57,5 +57,5 @@ toDoArray.push(
 function deleteList(i){
   toDoArray.splice(i , 1);
   renderToDoList();
-  console.log(" version 12");
+  console.log(" version 1234567");
 }
